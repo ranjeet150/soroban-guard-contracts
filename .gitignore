@@ -1,6 +1,7 @@
 target/
-Cargo.lock
 
 # Test snapshots
 test_snapshots/
 *.snap
+config.bat
+node_modules
